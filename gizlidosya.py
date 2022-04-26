@@ -1,5 +1,5 @@
 import os
-author == Grasiand
+Grasiand
 print("""
 
 KULLANICI GİRİŞ EKRANI
